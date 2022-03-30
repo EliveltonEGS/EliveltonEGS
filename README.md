@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Elivelton Gonçalves da Silva 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/elivelton-gonçalves-silva-02bb13100)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elivelton-gon%C3%A7alves-silva-02bb13100/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EliveltonEGS/)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=EliveltonEGS&show_icons=true&theme=dracula&count_private=true)
