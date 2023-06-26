@@ -20,3 +20,7 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div><br/>
 
+### **_Sites Desenvolvidos como Freelancer_**
+
+- [AAfirma Especializada](https://aafirmaespecializada.com.br/) - <img width="90" src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev"/>
+- [Residencial Goulart](https://residencialgoulart.com.br/) - <img width="90" src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev"/>
