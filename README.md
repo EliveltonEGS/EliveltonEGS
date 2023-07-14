@@ -1,7 +1,7 @@
 ## Olá! Eu sou Elivelton Gonçalves da Silva 🖐️
 
 **<p align="justify">Formado em Sistemas de Informação, profissional de tecnologia, desenvolvedor Full Stack em back-end PHP/CodeIgniter/Laravel/Adobe Commerce e front-end JavaScript/JQuery/VueJs, visando sempre as boas
-práticas de programação, em busca de novos desafios para aprimoramento contínuo de novas habilidades e conhecimentos. Experiência e estudo constante com PHP (Orientação a Objetos) e boas praticas de programação.</p>**
+práticas de programação, em busca de novos desafios para aprimoramento contínuo de novas habilidades e conhecimentos. Experiência e estudo constante com PHP (Orientação a Objetos) com foco em boas praticas de programação.</p>**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elivelton-gon%C3%A7alves-silva-02bb13100/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EliveltonEGS/)
