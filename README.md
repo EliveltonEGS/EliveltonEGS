@@ -22,6 +22,53 @@ práticas de programação, em busca de novos desafios para aprimoramento contí
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div><br/>
 
+<table>
+  <thead>
+    <tr>
+      <td><strong>Projetos</strong></td>
+      <td><strong>Tecnologias</strong></td>
+      <td><strong>Repositórios</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>API PHP utilizando Micro Services e Princípios de SOLID</td>
+      <td>PHP|MySQL|Eloquent</td>
+      <td><a href="https://github.com/EliveltonEGS/API_PHP">API_PHP</a></td>
+    </tr>
+    <tr>
+      <td>Projeto MVC</td>
+      <td>PHP|Vuejs|Javascript|html5|CSS3|MySQL</td>
+      <td><a href="https://github.com/EliveltonEGS/ClickBeard_elivelton_goncalves" target="_blank">ClickBeard_elivelton_goncalves</a></td>
+    </tr>
+    <tr>
+      <td>Projeto em Laravel com relacionamento 1:1</td>
+      <td>PHP|Laravel|MySQL|Docker</td>
+      <td><a href="https://github.com/EliveltonEGS/ClickBeard_elivelton_goncalves" target="_blank">Sample_Crud_Laravel</a></td>
+    </tr>
+    <tr>
+      <td>Consumindo API com Vuejs</td>
+      <td>Vuejs|Axios</td>
+      <td><a href="https://github.com/EliveltonEGS/frontVueProducts" target="_blank">frontVueProducts</a></td>
+    </tr>
+    <tr>
+      <td>API Spring Boot</td>
+      <td>Java|MySQL</td>
+       <td><a href="https://github.com/EliveltonEGS/Api_start_sprint_boot" target="_blank">Api_start_sprint_boot</a></td>
+    </tr>
+    <tr>
+      <td>Gerenciamento de Serviço Fotográfico - Desktop</td>
+      <td>Java|PostgreSQL</td>
+      <td><a href="https://github.com/EliveltonEGS/Servico_Fotografico">Servico_Fotografico</a></td>
+    </tr>
+    <tr>
+      <td>Sistema para verificação de vencimento de Boletos - Desktop</td>
+      <td>Java|PostgreSQL|Hibernate</td>
+      <td><a href="https://github.com/EliveltonEGS/Alerta_Venc_Boleto">Alerta_Venc_Boleto</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ### **_Sites Desenvolvidos como Freelancer_**
 
 - [AAfirma Especializada](https://aafirmaespecializada.com.br/) - <img width="90" src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev"/>
