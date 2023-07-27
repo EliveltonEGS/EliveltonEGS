@@ -44,7 +44,7 @@ práticas de programação, em busca de novos desafios para aprimoramento contí
     <tr>
       <td>Projeto em Laravel com relacionamento 1:1</td>
       <td>PHP|Laravel|MySQL|Docker</td>
-      <td><a href="https://github.com/EliveltonEGS/ClickBeard_elivelton_goncalves" target="_blank">Sample_Crud_Laravel</a></td>
+      <td><a href="https://github.com/EliveltonEGS/Sample_Crud_Laravel" target="_blank">Sample_Crud_Laravel</a></td>
     </tr>
     <tr>
       <td>Consumindo API com Vuejs</td>
