@@ -52,6 +52,11 @@ práticas de programação, em busca de novos desafios para aprimoramento contí
       <td><a href="https://github.com/EliveltonEGS/Sample_Crud_Laravel" target="_blank">Sample_Crud_Laravel</a></td>
     </tr>
     <tr>
+      <td>API Laravel com token</td>
+      <td>PHP|Laravel|MySQL|Docker</td>
+      <td><a href="https://github.com/EliveltonEGS/Authenticate_api_sanctum" target="_blank">Authenticate_api_sanctum</a></td>
+    </tr>
+    <tr>
       <td>Consumindo API com Vuejs</td>
       <td>Vuejs|Axios</td>
       <td><a href="https://github.com/EliveltonEGS/frontVueProducts" target="_blank">frontVueProducts</a></td>
