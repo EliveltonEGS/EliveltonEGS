@@ -1,7 +1,7 @@
 ## Olá! Eu sou Elivelton Gonçalves da Silva 🖐️
 
-**<p align="justify">Formado em Sistemas de Informação, profissional de tecnologia, desenvolvedor Full Stack em back-end PHP/CodeIgniter/Laravel/Adobe Commerce e front-end JavaScript/JQuery/VueJs/Angular, visando sempre as boas
-práticas de programação, em busca de novos desafios para aprimoramento contínuo de novas habilidades e conhecimentos. Experiência e estudo constante com PHP (Orientação a Objetos) com foco em boas praticas de programação.</p>**
+**<p align="justify">Formado em Sistemas de Informação, profissional de tecnologia, desenvolvedor Full Stack em back-end PHP e front-end, visando sempre as boas
+práticas de programação, em busca de novos desafios para aprimoramento contínuo de novas habilidades e conhecimentos</p>**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elivelton-gon%C3%A7alves-silva-02bb13100/)
 
@@ -47,11 +47,6 @@ práticas de programação, em busca de novos desafios para aprimoramento contí
      <td><a href="https://github.com/EliveltonEGS/desafio_backend_01" target="_blank">desafio_backend_01</a></td>
     </tr>
     <tr>
-      <td>Projeto em Laravel com relacionamento 1:1</td>
-      <td>PHP|Laravel|MySQL|Docker</td>
-      <td><a href="https://github.com/EliveltonEGS/Sample_Crud_Laravel" target="_blank">Sample_Crud_Laravel</a></td>
-    </tr>
-    <tr>
       <td>API Laravel com token</td>
       <td>PHP|Laravel|MySQL|Docker</td>
       <td><a href="https://github.com/EliveltonEGS/Authenticate_api_sanctum" target="_blank">Authenticate_api_sanctum</a></td>
@@ -61,25 +56,5 @@ práticas de programação, em busca de novos desafios para aprimoramento contí
       <td>Vuejs|Axios</td>
       <td><a href="https://github.com/EliveltonEGS/frontVueProducts" target="_blank">frontVueProducts</a></td>
     </tr>
-    <tr>
-      <td>API Spring Boot</td>
-      <td>Java|MySQL</td>
-       <td><a href="https://github.com/EliveltonEGS/Api_start_sprint_boot" target="_blank">Api_start_sprint_boot</a></td>
-    </tr>
-    <tr>
-      <td>Gerenciamento de Serviço Fotográfico - Desktop</td>
-      <td>Java|PostgreSQL</td>
-      <td><a href="https://github.com/EliveltonEGS/Servico_Fotografico">Servico_Fotografico</a></td>
-    </tr>
-    <tr>
-      <td>Sistema para verificação de vencimento de Boletos - Desktop</td>
-      <td>Java|PostgreSQL|Hibernate</td>
-      <td><a href="https://github.com/EliveltonEGS/Alerta_Venc_Boleto">Alerta_Venc_Boleto</a></td>
-    </tr>
   </tbody>
 </table>
-
-### **_Sites Desenvolvidos como Freelancer_**
-
-- [AAfirma Especializada](https://aafirmaespecializada.com.br/) - <img width="90" src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev"/>
-- [Residencial Goulart](https://residencialgoulart.com.br/) - <img width="90" src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev"/>
