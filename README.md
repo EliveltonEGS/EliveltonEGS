@@ -31,7 +31,7 @@
     <tr>
       <td>Aplicação para Gerenciamento de Contatos</td>
       <td>Laravel|Laravel UI|Docker</td>
-      <td><a href="https://github.com/EliveltonEGS/contacts_management">Gerenciamento de Contatos</a></td>
+      <td><a target="_blank" href="https://github.com/EliveltonEGS/contacts_management">Gerenciamento de Contatos</a></td>
     </tr>
     <tr>
       <td>API PHP utilizando Micro Services e Princípios de SOLID</td>
