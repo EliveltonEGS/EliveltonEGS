@@ -30,8 +30,13 @@
   <tbody>
     <tr>
       <td>Aplicação para Gerenciamento de Contatos</td>
+      <td>Laravel|Docker|Esclusão Lógica</td>
+      <td><a href="https://github.com/EliveltonEGS/gerenciamento_contatos">Gerenciamento de Contatos</a></td>
+    </tr>
+    <tr>
+      <td>Aplicação para Gerenciamento de Contatos Com API Rest</td>
       <td>API|Laravel|Docker|Documentation Swagger</td>
-      <td><a href="https://github.com/EliveltonEGS/contact_management">Gerenciamento de Contatos</a></td>
+      <td><a href="https://github.com/EliveltonEGS/contact_management">Gerenciamento de Contatos Versão API REST</a></td>
     </tr>
     <tr>
       <td>API PHP utilizando Micro Services e Princípios de SOLID</td>
