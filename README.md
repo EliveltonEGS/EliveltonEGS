@@ -29,6 +29,11 @@
   </thead>
   <tbody>
     <tr>
+      <td>Aplicação para Gerenciamento productos</td>
+      <td>Quarkus|API|Java</td>
+      <td><a href="https://github.com/EliveltonEGS/products_management">Gerenciamento de Produtos</a></td>
+    </tr>
+    <tr>
       <td>Aplicação para Gerenciamento de Contatos</td>
       <td>Laravel|Docker|Esclusão Lógica</td>
       <td><a href="https://github.com/EliveltonEGS/gerenciamento_contatos">Gerenciamento de Contatos</a></td>
