@@ -1,6 +1,6 @@
 ## Olá! Eu sou Elivelton Gonçalves da Silva 🖐️
 
-**<p align="justify">Desenvolvedor PHP, formado em Sistemas de Informação, com mais de 4 anos de experiência no desenvolvimento e manutenção de aplicações web e sistemas ERP. Atuação com PHP 7 e 8, Laravel, APIs RESTful, bancos de dados relacionais e arquitetura MVC. Experiência em migração de sistemas legados para Laravel, integração de APIs, CI/CD, ambientes em nuvem e boas práticas de desenvolvimento aplicando SOLID, Clean Code e padrões de projeto.</p>**
+**<p align="justify">Desenvolvedor PHP e Java Full Stack, formado em Sistemas de Informação, com 5 anos de experiência no desenvolvimento e manutenção de aplicações web. Atuação sólida com PHP 7 e 8, Laravel, Java com Quarkus e Spring Boot, APIs RESTful, bancos de dados relacionais e arquitetura MVC e Microserviços. Experiência no desenvolvimento de interfaces com VueJS, javascript e Jquery, integração entre front-end e back-end, além de migração de sistemas legados para Laravel, integração de APIs, boas práticas de desenvolvimento, aplicando SOLID, Clean Code e padrões de projeto.</p>**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elivelton-gon%C3%A7alves-silva-02bb13100/)
 
