@@ -53,7 +53,7 @@ javascript e Jquery, integração entre front-end e back-end, além de migraçã
     <tr>
       <td>Projeto MVC</td>
       <td>PHP|Vuejs|Javascript|html5|CSS3|MySQL</td>
-      <td><a href="https://github.com/EliveltonEGS/ClickBeard" target="_blank">ClickBeard</a></td>
+      <td><a href="https://github.com/EliveltonEGS/click_beard" target="_blank">click_beard</a></td>
     </tr>
     <tr>
       <td>Desafio Backend 01</td>
